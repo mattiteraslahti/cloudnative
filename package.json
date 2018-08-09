@@ -20,6 +20,7 @@
     "inert": "^5.1.0",
     "joi": "^13.5.2",
     "mongoose": "^5.2.7",
+    "openshift-rest-client": "^1.4.0",
     "vision": "^5.3.3"
   }
 }
